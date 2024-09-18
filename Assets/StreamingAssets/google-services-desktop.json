@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "317554534727",
+    "project_id": "mrtaxi-a89cb",
+    "storage_bucket": "mrtaxi-a89cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317554534727:ios:8e680c3bb045e81ea98462",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MrTaxi"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3r9DzqC8jUxLfTczaP4vmu3QE9C3yLww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
